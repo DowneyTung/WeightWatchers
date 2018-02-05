@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="13383" started-at="2018-02-02T17:47:29Z" finished-at="2018-02-02T17:47:42Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="13383" started-at="2018-02-02T17:47:29Z" finished-at="2018-02-02T17:47:42Z">
+      <class name="com.weightwatchers.testcases.SamplePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.weightwatchers.testcases.SamplePageTest@60f82f98]" name="setup" is-config="true" duration-ms="12722" started-at="2018-02-02T12:47:29Z" finished-at="2018-02-02T12:47:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getElementText()[pri:0, instance:com.weightwatchers.testcases.SamplePageTest@60f82f98]" name="getElementText" duration-ms="165" started-at="2018-02-02T12:47:41Z" finished-at="2018-02-02T12:47:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementText -->
+        <test-method status="PASS" signature="storeName()[pri:0, instance:com.weightwatchers.testcases.SamplePageTest@60f82f98]" name="storeName" duration-ms="253" started-at="2018-02-02T12:47:42Z" finished-at="2018-02-02T12:47:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storeName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.weightwatchers.testcases.SamplePageTest@60f82f98]" name="tearDown" is-config="true" duration-ms="211" started-at="2018-02-02T12:47:42Z" finished-at="2018-02-02T12:47:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.weightwatchers.testcases.SamplePageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

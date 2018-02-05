@@ -1,0 +1,4 @@
+﻿Apple – a fruit, a tech firm, a something, abc, def, , dddd,
+Table – an object, contains rows and columns when used in context of computers
+Orange – a fruit
+Oracle–A database,DBMS
